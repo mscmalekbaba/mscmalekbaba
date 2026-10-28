@@ -24,7 +24,7 @@ If you have an idea, a request, or a product you want to build, feel free to rea
   <a href="https://www.linkedin.com/in/malekbaba/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Malek%20Baba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/DRMALEK">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-DRMALEK-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/mscmalekbaba">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-mscmalekbaba-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
