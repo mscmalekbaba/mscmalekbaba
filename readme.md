@@ -1,6 +1,6 @@
 # Hi there, I'm Malek Baba 👋
 
-I’m a Software Engineer based in Germany, With a master degree in computer science from the University of Stuttgart.
+I’m a Software Engineer based in Germany, with a master degree in computer science from the University of Stuttgart.
 
 I’m especially interested in architecting and building full-stack web applications, Retrieval-Augmented Generation (RAG) systems, and agentic workflows.
 
