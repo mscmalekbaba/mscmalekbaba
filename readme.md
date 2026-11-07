@@ -2,7 +2,7 @@
 
 I’m a Software Engineer based in Germany,
 
-I’m especially interested in building and architecting full-stack web applications, Retrieval-Augmented Generation (RAG) systems, and agentic workflows.
+I’m especially interested in architecting and building full-stack web applications, Retrieval-Augmented Generation (RAG) systems, and agentic workflows.
 
 ## Skills
 
