@@ -8,8 +8,8 @@ I’m especially interested in architecting and building full-stack web applicat
 
 | Category | Skills |
 | --- | --- |
-| Languages & Frameworks | Python (FastAPI, Django), TypeScript, JavaScript, React, SQL, PyTorch |
-| AI / ML | LLMs, RAG, Embeddings, Agentic workflows, Tool-calling systems, LangChain, Vector search, Evaluation and guardrails |
+| Languages & Frameworks | Python (FastAPI, Django), TypeScript, JavaScript, React, SQL, PyTorch, LangChain |
+| AI / ML | LLMs, RAG, Embeddings, Agentic workflows, Tool-calling systems, Vector search, Evaluation and guardrails |
 | Cloud & DevOps | Azure, Docker, Git, MQTT, CI/CD, Linux |
 | AI Dev Tools | GitHub Copilot, Claude Code |
 
