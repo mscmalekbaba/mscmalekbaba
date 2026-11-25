@@ -20,16 +20,6 @@ I enjoy architecting and building full-stack web applications, Retrieval-Augment
 - Robustness with little labelled data: new stations, viewpoints, occlusions
 - Model compression and distillation for real-time deployment
 
-## Skills
-
-| Category | Skills |
-| --- | --- |
-| Languages & Frameworks | Python (FastAPI, Django), TypeScript, JavaScript, React, SQL, LangChain |
-| Computer vision & ML | PyTorch, video action recognition, 3D-CNNs (X3D, SlowFast), pruning, knowledge distillation, model evaluation |
-| LLMs & agents | RAG, embeddings, vector search, tool-calling agents, LangGraph, DeepEval |
-| Cloud & DevOps | Azure, Docker, Git, CI/CD, Linux, Terraform |
-| AI Dev Tools | GitHub Copilot, Claude Code |
-
 ## Let’s Connect
 
 If you have an idea, a request, or a product you want to build, feel free to reach out and I’d love to connect.
