@@ -11,8 +11,8 @@ I enjoy architecting and building full-stack web applications, Retrieval-Augment
 
 ## Research
 
-- **Published:** [PDNet: Exploring Pruning and Distillation for Real-Time Worker Activity Recognition in Industrial Assembly](https://github.com/mscmalekbaba/PDNet), first author, VISAPP 2026 (DOI: 10.5220/0014477200004084). Structured pruning plus knowledge distillation on a 3D-CNN (X3D-M), evaluated on MECCANO.
-- **Master's thesis:** [Resource-efficient Deep Learning for Real-time Recognition of Worker Activities During Industrial Assembly](https://github.com/mscmalekbaba/Master-Thesis-Resource-Efficient-PySlowFast), built on PySlowFast.
+- **Published:** [PDNet: Exploring Pruning and Distillation for Real-Time Worker Activity Recognition in Industrial Assembly](https://github.com/mscmalekbaba/PDNet), first author, VISAPP 2026 (DOI: 10.5220/0014477200004084). Structured pruning plus knowledge distillation on a 3D-CNN (X3D-M), evaluated on [MECCANO](https://github.com/fpv-iplab/MECCANO) dataset.
+- **Master's thesis:** [Resource-efficient Deep Learning for Real-time Recognition of Worker Activities During Industrial Assembly](https://github.com/mscmalekbaba/Master-Thesis-Resource-Efficient-PySlowFast), built on [PySlowFast](https://github.com/facebookresearch/slowfast).
 - **In progress:** an exploratory study of open VLMs (Qwen-VL family) on MECCANO, compared with PDNet on accuracy and compute cost. *(link coming soon)*
 
 ### Research interests
