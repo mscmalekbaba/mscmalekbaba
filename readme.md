@@ -15,7 +15,7 @@ I’m especially interested in architecting and building full-stack web applicat
 
 ## Let’s Connect
 
-If you have an idea, a request, or a product you want to build, feel free to reach out — I’d love to connect.
+If you have an idea, a request, or a product you want to build, feel free to reach out and I’d love to connect.
 
 <p align="left">
   <a href="mailto:malek.baba.jobs@outlook.com">
